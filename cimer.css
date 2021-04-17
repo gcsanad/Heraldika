@@ -37,6 +37,7 @@ img{
   border: 1px solid #0F0F0F;
   box-shadow: 5px 5px 5px #7F7F7F;
   padding:15px;
+
 }
 
 #vonalkazas{
@@ -46,14 +47,10 @@ img{
 }
 
 .fk{
-  font-weight: normal;
+  font-weight: bold;
 }
 
 #teljes{
   float:right;
-}
-
-
-ol::before{
-  content: "•";
+  margin-left: 15px;
 }
